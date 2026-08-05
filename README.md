@@ -1,14 +1,14 @@
-# (project title)
+# Authentication Service Backport
 
-(project description).
+Add support for component based authenticators to versions older than 15.2.
 
-* Project Lead: [(name)](https://www.xwiki.org/xwiki/bin/view/XWiki/(profile id on xwiki.org))
-* Documentation & Downloads: [Documentation & Download](https://extensions.xwiki.org/xwiki/bin/view/Extension/(extension name)))
-* [Issue Tracker](https://jira.xwiki.org/browse/(jira id)
-* Communication: [Forum](https://forum.xwiki.org/), [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
-* [Development Practices](https://dev.xwiki.org)
-* Minimal XWiki version supported: XWiki (minimal xwiki version)
+* Project Lead: [Thomas Mortagne](http://www.xwiki.org/xwiki/bin/view/XWiki/ThomasMortagne)
+* [Documentation & Downloads](https://extensions.xwiki.org/xwiki/bin/view/Extension/AuthServiceBackport)
+* [Issue Tracker](http://jira.xwiki.org/browse/AUTHSBACK)
+* Communication: [Forum](https://forum.xwiki.org), [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
+* [Development Practices](http://dev.xwiki.org)
+* Minimal XWiki version supported: XWiki 8.4
 * License: LGPL 2.1
-* Translations: N/A
-* Sonar Dashboard: [![Status](https://sonarcloud.io/api/project_badges/measure?project=(group id):(artifact id)&metric=alert_status)](https://sonarcloud.io/dashboard?id=(group id):(artifact id))
-* Continuous Integration Status: [![Build Status](https://ci.xwiki.org/job/XWiki%20Contrib/job/(project id on ci)/job/master/badge/icon)](https://ci.xwiki.org/job/XWiki%20Contrib/job/(projct id on ci)/job/master/)
+* Translations: ?
+* Sonar Dashboard: N/A
+* Continuous Integration Status: [![Build Status](https://ci.xwiki.org/buildStatus/icon?job=XWiki+Contrib%2Fauthenticator-component-backport%2Fmaster)](https://ci.xwiki.org/job/XWiki%20Contrib/job/authservice-backport/job/master/)
