@@ -3,7 +3,7 @@
 Add support for component based authenticators to versions older than 15.2.
 
 * Project Lead: [Thomas Mortagne](http://www.xwiki.org/xwiki/bin/view/XWiki/ThomasMortagne)
-* [Documentation & Downloads]([https://extensions.xwiki.org/xwiki/bin/view/Extension/AuthServiceBackport](https://extensions.xwiki.org/xwiki/bin/view/Extension/User%20Authenticated%20Event%20Backport/))
+* [Documentation & Downloads](https://extensions.xwiki.org/xwiki/bin/view/Extension/User%20Authenticated%20Event%20Backport/)
 * [Issue Tracker](http://jira.xwiki.org/browse/UAUTHEVENT)
 * Communication: [Forum](https://forum.xwiki.org), [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
 * [Development Practices](http://dev.xwiki.org)
